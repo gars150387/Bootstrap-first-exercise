@@ -1,0 +1,24 @@
+body{
+    position: absolute
+    top: 30px;
+}
+.container{
+    font-weight: 500;
+}
+.fas{
+    position: absolute;
+    top: 183px;
+    right: 229px;
+}
+#inputmessage{
+    line-height: 100px;
+}
+#footer-note{
+        font-size: 10px;
+}
+.card-footer{
+    height: 60px;
+}
+.cancel{
+   /* width: 60px;*/
+}
