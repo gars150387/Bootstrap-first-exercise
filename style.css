@@ -22,3 +22,6 @@ body{
 .cancel{
    /* width: 60px;*/
 }
+.form-control{
+    padding: 8px;
+}
