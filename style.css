@@ -19,9 +19,9 @@ body{
 .card-footer{
     height: 60px;
 }
-.cancel{
-   /* width: 60px;*/
-}
 .form-control{
     padding: 8px;
+}
+#titletextarea{
+    margin-bottom: 8px;
 }
