@@ -1,7 +1,7 @@
 body{
     margin: auto;
     position: relative;
-    top: 30px;*/
+    top: 30px;
 }
 .container{
     margin: auto;
@@ -26,4 +26,7 @@ body{
 }
 #titletextarea{
     margin-bottom: 8px;
+}
+.bottomspace{
+    height: 30px;
 }
