@@ -30,3 +30,7 @@ body{
 .bottomspace{
     height: 30px;
 }
+.options{
+    /*margin-left: 10%;*/
+    text-align: left;
+}
